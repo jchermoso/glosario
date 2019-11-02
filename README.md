@@ -1,4 +1,5 @@
 # Glosario de términos
+# # Glosario de consulta sobre términos informáticos
 
 **API**: es un conjunto de subrutinas, funciones y procedimientos (o métodos, en la programación orientada a objetos) que ofrece cierta biblioteca para ser utilizado por otro software como una capa de abstracción.
 Son usadas generalmente en las bibliotecas de programación.
