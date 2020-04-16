@@ -17,6 +17,8 @@ Son usadas generalmente en las bibliotecas de programación.
 
 **Cambio de contexto**: ejecución de una rutina perteneciente al núcleo del sistema operativo multitarea de una computadora, cuyo propósito es parar la ejecución de un hilo o proceso para dar paso a la ejecución de otro distinto. De esta manera, se puede aprovechar los tiempos muertos en los que no se necesita la CPU para ejecutar otro proceso.
 
+**Cloud computing**: computación en la nube o, simplemente, "la nube" consiste en el ofrecimiento de servicios a través de internet, mayoritariamente almacenamiento de datos (alojados en centros de datos).
+
 **Clúster (de servidores)**: conjunto de ordenadores conectados entre sí mediante una red de alta velocidad que trabajan como uno solo, lo que lleva a cuatro ventajas:
 
 	- Alta disponibilidad
