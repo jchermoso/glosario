@@ -72,3 +72,5 @@ Intenta mantener ocupada a cada parte del procesador, dividiendo las instruccion
 El SEO trabaja aspectos técnicos como la optimización de la estructura y los metadatos de una web, pero también se aplica a nivel de contenidos, con el objetivo de volverlos más útiles y relevantes para los usuarios. 
 
 **Servidor proxy**: servidor intermediario entre dos servidores. Esto sirve para atender a ciertos procesos, tales como control de peticiones o uso del proxy para mantener el anonimato del cliente.
+
+**Switch**: dispositivo de interconexión en red de un grupo de dispositivos dentro de una misma LAN.
