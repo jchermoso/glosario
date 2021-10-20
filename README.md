@@ -57,6 +57,8 @@ información y asegurar la conexión. Para ello, se usa HTTPS y SSL (protocolo c
 
 **HPC (Computación de alto rendimiento)**: computación que consiste en operaciones altamente complejas o de una carga alta. Para ello entran en juego supercomputadores, clusters, computación paralela y/o distribuida...
 
+**Jenkins**: Jenkins es un servidor automatizado de integración continua de código abierto capaz de organizar una cadena de acciones que ayudan a lograr el proceso de integración continua (y mucho más) de manera automatizada.
+
 **Latencia**: Tiempo que tarda un dato en estar disponible desde que se realiza su petición. Se puede comparar con el tiempo de reacción. Se mide en nanosegundos (ns) o en milisegundos (ms). Cuanto menos latencia, mejor.
 
 **Middleware**: El middleware es un sistema de software de múltiples propósitos que proporciona servicios a las aplicaciones, fuera de lo que ofrece el sistema operativo. Cualquier software entre el kernel y las aplicaciones de usuario puede ser middleware.
